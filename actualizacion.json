@@ -1,8 +1,8 @@
 {
- "version": "1.2",
- "build": 102,
- "archivo": "iqbot_102.zip",
- "sha256": "257aa924ce5367fae56ed13b7daf3d8af9f5632a5cf7a0a8c0f8398134ecfb93",
- "notas": "Filtros más simples, estrategias automáticas, velas fuertes",
- "firma": "ade0047495a54255896d50fa0149c2319f550001134218d3f000f5a2b2984682696c6443875175984ebc3cb7ebd2a7d0b60347de7386d63103344430f156aa00"
+ "version": "1.3",
+ "build": 103,
+ "archivo": "iqbot_103.zip",
+ "sha256": "a635f096e06bd8ca7c82361785033e42aa86cdbd3ae05895447ccae1abc6a1bc",
+ "notas": "IA que aprende de cada operación",
+ "firma": "2b1fd3c158f136c87d19b8f7301f22aa2543d8be38acabb2b7339a09cce4ae55459a7a85dcd0d9f5d5a89a09a9ba637d96b2334529503a783b4f87dcd3fba504"
 }
