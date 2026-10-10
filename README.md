@@ -1,1 +1,1 @@
-# iqbot-actualizaciones
+# iqbotactualizaciones
