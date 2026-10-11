@@ -1,8 +1,8 @@
 {
  "version": "1.5",
- "build": 105,
- "archivo": "iqbot_105.zip",
- "sha256": "7db879986b6c43949c8d3d3cb64a2dc26926e6aa77d687ffbf5caf9d5b32022c",
- "notas": "IA Mejorada",
- "firma": "ed5ec2ef4c4b4bb501685677dfdfbc1e4b5311c3c07e871d38611f4acacf28d12b929134e73e197b0f0625ec9bc488886d15bda898bdec44a6b6def5153f3f03"
+ "build": 106,
+ "archivo": "iqbot_106.zip",
+ "sha256": "ca43bb9751258da8f17d927ecc63ee98ada80eed4dae84d6ab2b75f210dc8a35",
+ "notas": "Cambios",
+ "firma": "63d9c88cdf4b89e707f42edc02476e657aa5c789433812c8a39eba78d3d47b409d316fe2b9ce82f37daf56f05b6c2ac04d5cfc073f7eb97df3c2dab43dbe5302"
 }
