@@ -1,8 +1,8 @@
 {
- "version": "1.4",
- "build": 104,
- "archivo": "iqbot_104.zip",
- "sha256": "199332c7589e0d63807cc8631666f132ec2f463cf0dea5f9c0caa0aa479e5bc6",
- "notas": "IA de aprendizaje y aviso de mercado",
- "firma": "749355342ef752888855f5589c8c20a234c0f5edf615f5ffe77e75eddf89ca80f4e67660f701af0b981cf8db733f0bc69788ca3350e0b29dd898c80e1b0dcc08"
+ "version": "1.5",
+ "build": 105,
+ "archivo": "iqbot_105.zip",
+ "sha256": "7db879986b6c43949c8d3d3cb64a2dc26926e6aa77d687ffbf5caf9d5b32022c",
+ "notas": "IA Mejorada",
+ "firma": "ed5ec2ef4c4b4bb501685677dfdfbc1e4b5311c3c07e871d38611f4acacf28d12b929134e73e197b0f0625ec9bc488886d15bda898bdec44a6b6def5153f3f03"
 }
