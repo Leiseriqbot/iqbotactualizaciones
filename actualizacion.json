@@ -1,8 +1,8 @@
 {
- "version": "1.8",
- "build": 108,
- "archivo": "iqbot_108.zip",
- "sha256": "f732b12dd719a34a5aec39b33ff4e184ec06bfefe6682c1c6974a78a4feee100",
- "notas": "Nuevas estrategias y mejoras graficas",
- "firma": "c2a5c6a63eb3e2ae76d65a3d585b9e3b06367669e6c5254c602b0e34fae9b079d180f5a65446d87ceeeb66a3395eba8eb2b99711536f00facf58ccd91a08f002"
+ "version": "1.9",
+ "build": 109,
+ "archivo": "iqbot_109.zip",
+ "sha256": "7da92961015543362235b96310ab238047b8a69cd4dbe4d3f8f90a3c50afc186",
+ "notas": "mejoras",
+ "firma": "810dffd084f7bc23e98fa7a7b68c82b0d506e4c9599ad4adb93870a07bfe954228da94da0bb8128ae1988363b87a5f94b72a71adad7ccf48f0d7f48502478801"
 }
