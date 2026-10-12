@@ -1,8 +1,8 @@
 {
- "version": "1.9",
- "build": 109,
- "archivo": "iqbot_109.zip",
- "sha256": "7da92961015543362235b96310ab238047b8a69cd4dbe4d3f8f90a3c50afc186",
- "notas": "mejoras",
- "firma": "810dffd084f7bc23e98fa7a7b68c82b0d506e4c9599ad4adb93870a07bfe954228da94da0bb8128ae1988363b87a5f94b72a71adad7ccf48f0d7f48502478801"
+ "version": "1.10",
+ "build": 110,
+ "archivo": "iqbot_110.zip",
+ "sha256": "94fc01045c424842e5ebcd37982f2511974f40e29ffa86838c804016dba4a948",
+ "notas": "Nuevas IAs y mejoras en el diseño",
+ "firma": "b9c961e789a6bbc0a1575c09e1f74e32a647aa66be28d62af54a3bae9adb7a99d8cc26f3acfcf04f1a9d2282ea19dbd1b70dd9a629cc7940d343412153300e06"
 }
