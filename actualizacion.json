@@ -1,8 +1,8 @@
 {
- "version": "1.17",
- "build": 117,
- "archivo": "iqbot_117.zip",
- "sha256": "8f2e59de8eff66eb5a4edff23974226d76c8a057c0dad0fa5b9f193cc89675da",
- "notas": "Notificaciones de la app",
- "firma": "602848b76ca4e4209b6eb0612bf1654e634ec141ea4729d39340abd111cf9f96d7d85344b148418130e87ca76f959ad4eac669797a354f17788b57e16b56cd03"
+ "version": "1.18",
+ "build": 118,
+ "archivo": "iqbot_118.zip",
+ "sha256": "88d0bc260b247265a4fd706a869b1b1ccac47b14267a04e420470ec415299d36",
+ "notas": "",
+ "firma": "345d89e7ac7d29f53f032dc3f73a8c871cecaf646b629471f90634e53ce37cf8213ef8aeb02518e050ff952c7867e70fdf948edafa2d97057165ab6506c07603"
 }
