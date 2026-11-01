@@ -1,8 +1,8 @@
 {
  "version": "1.0",
- "build": 169,
- "archivo": "iqbot_169.zip",
- "sha256": "dbd6e2ad432f81dec418879e9849716a3a24ec3d888a21ef4c5b33cf104a23d4",
+ "build": 170,
+ "archivo": "iqbot_170.zip",
+ "sha256": "fddca4a852f5adf321f28040efdbd09cd80c8a1a454f806b711c87d698491b76",
  "notas": "",
- "firma": "c32a730d3d2e3556b7d2feca539009b694b300fc3010eb49c25ca07c6da20982f91ea31b5d9d7dc711c08d9cd8d95986811c73a5dea96af79129b1eb9b98ed01"
+ "firma": "49ab5377fc317275ceadf75ef560bf672dbc6ae5ad9eef4043168d90643ebbb0f925cf3b350cf9ccec07328c7a5fbec147f9e33fd2a91f7c583d381d971c0400"
 }
